@@ -62,4 +62,5 @@ Feel free to contact me via the following options:
  <li> E-Mail: codingfactoryt@gmail.com </li>
 </ul>
 <br>
+
 or create an [Issue](https://github.com/CodingFactoryT/Geo-Image-Viewer/issues)
