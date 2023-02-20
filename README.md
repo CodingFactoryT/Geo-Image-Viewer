@@ -55,4 +55,11 @@ Latest UML diagram:
 
 The UML diagrams for this project are stored [here](https://github.com/madcomputerscientists/geoimageviewer/tree/main/plans/UML).
 
-## Feel free to create [Issues](https://github.com/madcomputerscientists/geoimageviewer/issues) and [Pull Requests](https://github.com/madcomputerscientists/geoimageviewer/pulls)!
+## Did you find any bugs or have ideas for new features?
+Feel free to contact me via the following options:
+<ul>
+ <li> Discord Server: https://discord.gg/deftTGQzb2 </li>
+ <li> E-Mail: codingfactoryt@gmail.com </li>
+</ul>
+<br>
+or create an [Issue](https://github.com/CodingFactoryT/Geo-Image-Viewer/issues)
