@@ -1,5 +1,6 @@
 # Geo Image Viewer
-A project that visualizes the locations where pictures were taken.
+This project was originally created for Ghana to help them categorize and locate their dumpingsites, which unfortunately can be found everywhere in the country.
+You will see this at some places in the app (some things are labelled "dumpingsite" instead of "waypoint", you can choose a dumpingsity type, ...). But you can of yourse also use this project to categorize other coordinates from pictures into locations.
 
 ## Usage
 Drag and drop pictures with GPS-Information from your local explorer onto the map, the program will show you where they were taken.
