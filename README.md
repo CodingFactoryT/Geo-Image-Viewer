@@ -44,6 +44,9 @@ mvn clean package
 java -jar target/geoimageviewer-1.0-SNAPSHOT.jar
 ```
 
+### 3. Executable file:
+You can also use the executable file from the Releases tab in GitHub to execute this project
+
 ## Documentation
 ### UML diagrams
 Latest UML diagram:
