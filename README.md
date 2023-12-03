@@ -1,6 +1,29 @@
 # Geo Image Viewer
 This project was originally created for Ghana to help them categorize and locate their dumpingsites, which unfortunately can be found everywhere in the country.
-You will see this at some places in the app (some things are labelled "dumpingsite" instead of "waypoint", you can choose a dumpingsity type, ...). But of course you can also use this project to categorize other coordinates from pictures into locations.
+You will see this at some places in the app (some things are labeled "dumpingsite" instead of "waypoint", you can choose a dumpingsity type, ...). But of course you can also use this project to categorize other coordinates from pictures into locations.
+
+## Features
+<ul>
+ <li>import (folders with) images by dragging and dropping them onto the map</li>
+ <li>any errors while uploading images are indicated</li>
+ <li>change map representation (Default, OSM, Satellite, Hybrid)</li>
+ <li>change app behavior in the settings menu</li>
+ <li>view all dumpingsites with their information in a table</li>
+ <li>get information about one location on the sidebar panel</li>
+ <li>zoom and move the map</li>
+ <li>move the waypoints, the app will dynamically update the coordinates</li>
+ <li>inform yourself about the features in the tutorial</li>
+ <li>system for logging errors while importing images</li>
+ <li>start map and import images via console</li>
+ <li>activate/deactivate logging via console</li>
+ <li>the app saves the state of itself when a user closes it, so no information is lost if you open the app the next time</li>
+ <li>load map via an api</li>      
+ <li>images are grouped to dumpingsites</li>
+</ul>
+
+
+
+
 
 ## Usage
 Drag and drop pictures with GPS-Information from your local explorer onto the map, the program will show you where they were taken.
