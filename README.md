@@ -19,6 +19,7 @@ You will see this at some places in the app (some things are labeled "dumpingsit
  <li>the app saves the state of itself when a user closes it, so no information is lost if you open the app the next time</li>
  <li>load map via an api</li>      
  <li>images are grouped to dumpingsites</li>
+ <li>take a screenshot of the map without the UI</li>
 </ul>
 
 
